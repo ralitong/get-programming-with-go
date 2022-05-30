@@ -1,0 +1,2 @@
+Errors are values.
+Dont just check errors, handle them gracefully
